@@ -90,7 +90,7 @@
       , "source_url": null
     }
   , {
-        "body": "All you've got to do is decide to go and the hardest part is over. So go!"
+        "body": "All you’ve got to do is decide to go and the hardest part is over. So go!"
       , "author": "Tony Wheeler"
       , "source": "Across Asia on the Cheap"
       , "source_url": null
@@ -150,7 +150,7 @@
       , "source_url": null
     }
   , {
-        "body": "All this, all of this love we're talking about, it would just be a memory. Maybe not even a memory."
+        "body": "All this, all of this love we’re talking about, it would just be a memory. Maybe not even a memory."
       , "author": "Raymond Carver"
       , "source": "What We Talk about When We Talk about Love"
       , "source_url": null
@@ -204,15 +204,39 @@
       , "source_url": null
     }
   , {
-        "body": "No man is an island, entire of itself; every man is a piece of the continent, a part of the main; if a clod be washed away by the sea, Europe is the less, as well as if a promontory were, as well as if a manor of thy friends or of thine own were; any man’s death diminishes me, because I am involved in mankind; and therefore never send to know for whom the bell tolls; it tolls for thee."
-      , "author": "John Donne"
-      , "source": "No Man is an Island"
-      , "source_url": null
-    }
-  , {
         "body": "Two roads diverged in a yellow wood, And sorry I could not travel both And be one traveler, long I stood And looked down one as far as I could To where it bent in the undergrowth; Then took the other, as just as fair, And having perhaps the better claim, Because it was grassy and wanted wear; Though as for that the passing there Had worn them really about the same, And both that morning equally lay In leaves no step had trodden black. Oh, I kept the first for another day! Yet knowing how way leads on to way, I doubted if I should ever come back. I shall be telling this with a sigh Somewhere ages and ages hence: Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference."
       , "author": "Robert Frost"
       , "source": "The Road Not Taken"
+      , "source_url": null
+    }
+  , {
+        "body": "Don’t cry because it’s over, smile because it happened."
+      , "author": "Dr. Seuss"
+      , "source": null
+      , "source_url": null
+    }
+  , {
+        "body": "Love is wise, hatred is foolish."
+      , "author": "Bertrand Russell"
+      , "source": "Bertrand Russell - to our descendants"
+      , "source_url": "http://www.youtube.com/watch?v=g3jnEqXhDNI"
+    }
+  , {
+        "body": "The best way to predict the future is to invent it."
+      , "author": "Alan Kay"
+      , "source": null
+      , "source_url": null
+    }
+  , {
+        "body": "There are occasionally short windows in time when incredibly important things get invented that shape the lives of humans for hundreds of years. These events are impossible to anticipate, and the inventors, the participants, are often working not for reasons of money, but for the personal satisfaction of making something great."
+      , "author": "Andy Hertzfeld"
+      , "source": "Revolution in The Valley"
+      , "source_url": null
+    }
+  , {
+        "body": "Be yourself; everyone else is already taken."
+      , "author": "Oscar Wilde"
+      , "source": null
       , "source_url": null
     }
 ]
