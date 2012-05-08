@@ -90,9 +90,9 @@
       , "source_url": null
     }
   , {
-        "body": "如果你已决定出发，旅行中最艰难的部分已经结束，那么，出发吧！"
-      , "author": "Lonely Planet 创始人惠勒夫妇"
-      , "source": null
+        "body": "All you've got to do is decide to go and the hardest part is over. So go!"
+      , "author": "Tony Wheeler"
+      , "source": "Across Asia on the Cheap"
       , "source_url": null
     }
   , {
@@ -108,8 +108,8 @@
       , "source_url": null
     }
   , {
-        "body": "人生充满欲望，在欲望未满足时痛苦；欲望满足而未产生新的欲望之时又空虚；所以人生如同钟摆一样在痛苦与空虚之间来回摆动。"
-      , "author": "叔本华"
+        "body": "Life swings like a pendulum backward and forward between pain and boredom."
+      , "author": "Arthur Schopenhauer"
       , "source": null
       , "source_url": null
     }
@@ -117,18 +117,12 @@
         "body": "在思考自己要读什么书之前，最好问问自己，我关心的到底是什么问题，因为只有真诚的问题意识才能将你引向真诚的阅读——阅读如此美好，任何功利心、虚荣心的杂质都是对它的玷污。"
       , "author": "刘瑜"
       , "source": "《南方周末 - 刘瑜的秘密书架：从经典到经验》"
-      , "source_url": null
+      , "source_url": "http://www.infzm.com/content/46119"
     }
   , {
-        "body": "人有三样东西是无法隐瞒的，咳嗽、穷困和爱；你想隐瞒越欲盖弥彰。人有三样东西是不该挥霍的，身体、金钱和爱；你想挥霍却得不偿失。人有三样东西是无法挽留的，时间、生命和爱；你想挽留却渐行渐远。人有三样东西是不该回忆的，灾难、死亡和爱；你想回忆却苦不堪言。"
-      , "author": "弗拉基米尔·纳博科夫"
-      , "source": "《洛丽塔》"
-      , "source_url": null
-    }
-  , {
-        "body": "长久以来，我一直有一种感觉：生活就要开始了，真正的生活就要降临了。但是在此之前，总有一些困难需要去克服，比如说未完成的工作、应继续服务的年限、一笔需偿还的债务等等。克服了这些以后，我才可能获得新生。最后，我终于发现，这些克服不完的困难就是我的生活。"
+        "body": "For a long time it seemed to me that life was about to begin - real life. But there was always some obstacle in the way, something to be gotten through first, some unfinished business, time to still be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life."
       , "author": "Alfred D. Souza"
-      , "source": null
+      , "source": "Happiness"
       , "source_url": null
     }
   , {
@@ -156,21 +150,21 @@
       , "source_url": null
     }
   , {
-        "body": "所有这些，所有这一切我们谈论的爱情，只不过是一种记忆罢了。甚至可能连记忆都不是。"
-      , "author": "雷蒙德·卡佛"
-      , "source": "《当我们谈论爱情时我们在谈论什么》"
+        "body": "All this, all of this love we're talking about, it would just be a memory. Maybe not even a memory."
+      , "author": "Raymond Carver"
+      , "source": "What We Talk about When We Talk about Love"
       , "source_url": null
     }
   , {
-        "body": "爱之于我，不是肌肤之亲，不是一蔬一饭，它是一种不死的欲望，和疲惫生活中的英雄梦想。"
-      , "author": "杜拉斯"
+        "body": "Love for me, not intimate relations, not a vegetable a meal, it is kind of desire for immortality is the dream of ordinary life hero."
+      , "author": "Marguerite Duras"
       , "source": null
       , "source_url": null
     }
   , {
-        "body": "年轻时，我们曾经相爱却浑然不知。"
-      , "author": "威廉·巴特勒·叶芝"
-      , "source": null
+        "body": "Young we loved each other and were ignorant."
+      , "author": "William Butler Yeats"
+      , "source": "After Long Silence"
       , "source_url": null
     }
   , {
@@ -180,7 +174,7 @@
       , "source_url": null
     }
   , {
-        "body": "长又漫长的夜晚，到处都是不说话的光明。"
+        "body": "漫长又漫长的夜晚，到处都是不说话的光明。"
       , "author": null
       , "source": "《光诚》"
       , "source_url": null
