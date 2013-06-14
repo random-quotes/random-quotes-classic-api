@@ -7,6 +7,7 @@ var quotes = JSON.parse(data);
 
 app.get('/', function(req, res) {
   var random = Math.floor(Math.random() * quotes.length);
+  res.header('Access-Control-Allow-Origin', '*');
   res.json(quotes[random]);
 });
 
