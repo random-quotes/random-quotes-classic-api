@@ -1,6 +1,6 @@
 # Random Quotes
 
-Personal collections
+personal collections
 
 ## Usage
 
