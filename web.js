@@ -1,7 +1,9 @@
 var express = require('express');
 var quotes = require('./quotes.json');
 
-var app = express.createServer(express.logger());
+var app = express();
+
+app.use(express.logger());
 
 app.get('/', function(req, res) {
   var random = Math.floor(Math.random() * quotes.length);
