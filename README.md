@@ -1,8 +1,8 @@
 # Random Quotes
 
-personal collections
+A web service responses with random quotes.
 
-## Usage
+## Request
 
 Command line:
 
@@ -16,4 +16,10 @@ Browsers:
 $.get('http://random-quotes.herokuapp.com/', function (data) {
   console.log(data)
 })
+```
+
+## Response
+
+```javascript
+{"body":"When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.","author":"@_why","source":"","source_url":""}
 ```
