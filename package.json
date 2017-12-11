@@ -1,12 +1,13 @@
 {
-    "name": "random-quotes"
-  , "version": "0.0.1"
-  , "private": true
-  , "engines": {
-      "node": "0.10.x"
-    , "npm":  "1.3.x"
-  }
-  , "dependencies": {
-      "express": "3.x.x"
-  }
+    "name": "random-quotes",
+    "version": "0.0.1",
+    "private": true,
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.3.x"
+    },
+    "dependencies": {
+        "express": "3.x.x",
+        "js-yaml": "^3.10.0"
+    }
 }
