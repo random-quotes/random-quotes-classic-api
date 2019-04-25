@@ -7,13 +7,13 @@ A web service responses with random quotes.
 Command line:
 
 ```bash
-$ curl random-quotes.herokuapp.com
+$ curl random-quotes-classic.herokuapp.com
 ```
 
 Browsers:
 
 ```javascript
-$.get('http://random-quotes.herokuapp.com/', function (data) {
+$.get('http://random-quotes-classic.herokuapp.com/', function (data) {
   console.log(data)
 })
 ```
